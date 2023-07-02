@@ -1,0 +1,101 @@
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.bg-pink {
+    background-color: palevioletred;
+}
+
+.mx-auto {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.font-bold {
+    font-weight: 900;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.my-1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2 {
+
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+
+.px-2 {
+    padding-left: 218px;
+    padding-right: 49px;
+    padding-top: 99px;
+}
+
+.text-blue {
+    color: rgb(247, 46, 79);
+}
+
+.btn {
+    padding: 7px 12px;
+    border: 2px solid rgba(10, 10, 10, 0.547);
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: rgba(165, 101, 112);
+    color: white;
+
+
+}
+.text{
+    text-align:start;
+}
+
+.top-right img {
+    height: 700px;
+    width: 500px;
+    position: relative;
+    padding-right: 100px;
+    top: -65px;
+    left: 100px;
+}
+
+.dumbbellimg{
+width: 270px;
+text-align: center;
+align-self: center;
+margin: -100px 42px -20px 0px;
+
+
+}
+.text-center{
+    text-align: center;
+}
+.high{
+   font-weight: bold; 
+}
